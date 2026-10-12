@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE & editor settings
+.vscode/
+.idea/
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
